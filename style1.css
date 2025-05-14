@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(216, 204, 204);
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    height: 60px;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin: 0;
+}
+hr{
+    margin: 0;
+}
+
+.imgs{
+    margin-right: 300px;
+}
+
+.logos{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 50px;
+}
+
+.jkmkjb{
+    display: flex;
+    justify-content: center;
+}
+
+.uibk{
+    display: flex;
+    justify-content: center;
+}
+
+.bdvsa{
+    display: flex;
+    justify-content: center;
+}
+
+.lefts{
+    width: 50%;
+}
+
+.category-foods{
+    width: 100%
+}
+
+.foods-category{
+    display: flex;
+    gap: 30px;
+}
+.categori-foot-div{
+    display: flex;
+}
+.foods-category-left{
+    width: 70%;
+}
+.foods-category-right{
+    width: 30%;
+}
+.avtor{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.avtor p{
+    margin: 0px;
+}
+.category-info > p{
+    margin-bottom: 20px;
+}
+
+.category-foods-right{
+    display: flex;
+    gap: 20px;
+}
+
+.email-adress{
+    background-image: url(./Mask\ Group\ \(17\).png);
+    width: 1280px;
+    height: 440px;
+}
+
+.email-adress h1{
+    display: flex;
+    justify-content: center;
+}
+
+.email-adress p{
+    display: flex;
+    justify-content: center;
+}
+
+.btnadda{
+    width: 600px;
+    height: 50px;
+    display: flex;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.sacas{
+    display: flex;
+}
+
+.sacas p{
+    margin-right: 100px;
+}
+
+.chast ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-left: 300px;
+}
+
+.topper{
+    display: flex;
+    justify-content: center;
+}
+
+.parag{
+    display: flex;
+    margin-left: 400px;
+}
+
+.logoserr{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+    gap: 20px;
+} 

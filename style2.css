@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    height: 60px;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    margin: 0;
+}
+hr{
+    margin: 0;
+}
+
+.imgs{
+    margin-right: 300px;
+}
+
+.logos{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 50px;
+}
+
+
+.contact-info h1{
+    display: flex;
+    justify-content: center;
+}
+
+.shef-form{
+    display: flex;
+    justify-content: center;
+}
+
+.btds{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.email-adress{
+    background-image: url(./Mask\ Group\ \(17\).png);
+    width: 1280px;
+    height: 440px;
+}
+
+.email-adress h1{
+    display: flex;
+    justify-content: center;
+}
+
+.email-adress p{
+    display: flex;
+    justify-content: center;
+}
+
+.btnadda{
+    width: 800px;
+    height: 50px;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.foods-nav h1{
+    display: flex;
+    justify-content: center;
+}
+
+.time-food{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+}
+
+.time-food p{
+    margin: 0;
+}
+
+.card{
+    position: relative;
+}
+.img-position{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.sacas{
+    display: flex;
+}
+
+.chast ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-left: 600px;
+}
+
+.topper{
+    display: flex;
+    justify-content: center;
+}
+
+.parag{
+    display: flex;
+    margin-left: 450px;
+}
+
+.logoserr{
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    gap: 40px;
+}

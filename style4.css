@@ -1,0 +1,205 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+p{
+  margin: 0px;
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  height: 60px;
+}
+
+.navbar ul{
+  display: flex;
+  gap: 40px;
+  list-style: none;
+  margin: 0;
+}
+hr{
+  margin: 0;
+}
+
+.imgs{
+  margin-right: 300px;
+}
+
+.logos{
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-left: 50px;
+}
+
+.info-food h1{
+  display: flex;
+  justify-content: center;
+}
+
+.info-john{
+  display: flex;
+  gap: 100px;
+  align-items: center;
+}
+
+.john-info{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.sdasd p{
+  margin: 0;
+}
+
+.eaads p{
+  margin: 0;
+  padding-left: 70px;
+}
+
+.parag-info{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.foods-category-left{
+  width: 70%;
+}
+
+.form-check p{
+  text-decoration: line-through;
+  color: rgb(164, 170, 169);
+}
+
+.foods-category-right{
+  width: 30%;
+}
+
+.foods-img-recepts{
+  display: flex;
+  gap: 50px;
+}
+
+.category-foods-right{
+  display: flex;
+  gap: 20px;
+}
+
+.category-foods-info{
+  display: flex;
+  gap: 90px;
+}
+
+.foods-info-left{
+  width: 75%;
+}
+
+.foods-info-right{
+  width: 25%;
+}
+
+.foods-info-left p{
+  margin-left: 25px;
+}
+
+.foods-info-left img{
+  margin-left: 25px;
+}
+
+.conetect-abbs{
+  display: flex;
+  align-items: center;
+  background-color: azure;
+  width: 990px;
+  height: 150px;
+  margin-left: 10px;
+}
+
+.logossa{
+  margin-left: 65px;
+}
+
+.email-adress{
+  background-image: url(./Mask\ Group\ \(23\).png);
+  width: 1280px;
+  height: 440px;
+}
+
+.email-adress h1{
+  display: flex;
+  justify-content: center;
+}
+
+.email-adress p{
+  display: flex;
+  justify-content: center;
+}
+
+.btnadda{
+  width: 800px;
+  height: 50px;
+  display: flex;
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+.foods-nav h1{
+  display: flex;
+  justify-content: center;
+}
+
+.time-food{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0;
+}
+
+.time-food p{
+  margin: 0;
+}
+
+.card{
+  position: relative;
+}
+.img-position{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+.sacas{
+  display: flex;
+}
+
+.chast ul{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  margin-left: 600px;
+}
+
+.topper{
+  display: flex;
+  justify-content: center;
+}
+
+.parag{
+  display: flex;
+  margin-left: 450px;
+}
+
+.logoserr{
+  display: flex;
+  align-items: center;
+  margin-left: 400px;
+  gap: 40px;
+}
