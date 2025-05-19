@@ -143,3 +143,11 @@ hr{
     margin-left: 500px;
     gap: 20px;
 } 
+
+
+
+.don{
+    height: 100vh;
+    background: rgb(111,10,242);
+    background: linear-gradient(0deg, rgba(111,10,242,1) 0%, rgba(164,67,204,1) 45%, rgba(250,181,172,1) 100%);
+}

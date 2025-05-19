@@ -174,9 +174,31 @@
     transform: scale(1.05);
   }
 
+  .conetect-abbs{
+    background-image: radial-gradient(white,rgb(219, 219, 219));
+    height: 224px;
+    width: 920px;
+    margin-left: 320px;
+    
+  }
   
 
+.email-adress1{
+  margin-left: 200px;
+  background-image: url(./IMAGE\ 2025-05-12\ 10:28:26.jpg);
+  width: 1280px;
+  height: 440px;
+}
 
+.email-adress1 h1{
+  display: flex;
+  justify-content: center;
+}
+
+.email-adress1 p{
+  display: flex;
+  justify-content: center;
+}
 
 
   

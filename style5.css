@@ -118,7 +118,6 @@ hr{
 .conetect-abbs{
   display: flex;
   align-items: center;
-  background-color: azure;
   width: 990px;
   height: 150px;
   margin-left: 10px;
@@ -132,6 +131,7 @@ hr{
   background-image: url(./Mask\ Group\ \(23\).png);
   width: 1280px;
   height: 440px;
+  
 }
 
 .email-adress h1{
