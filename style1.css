@@ -151,3 +151,200 @@ hr{
     background: rgb(111,10,242);
     background: linear-gradient(0deg, rgba(111,10,242,1) 0%, rgba(164,67,204,1) 45%, rgba(250,181,172,1) 100%);
 }
+
+.kruto:hover{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    transition: linear 0.2s;
+    transform: scale(1.05);
+}
+.product__text p{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.product_text p {
+    position: relative;
+    font-size: 1.5rem;
+    color: #333;
+    cursor: pointer;
+    padding-bottom: 5px;
+    transition: color 0.3s ease;
+}
+
+.product_text p::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #000;
+    transition: 0.3s ease;
+}
+
+.product_text p:hover {
+    color: #000;
+}
+
+.product_text p:hover::after {
+    width: 100%;
+}
+
+.product__text a{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.product_text a {
+    position: relative;
+    font-size: 1.5rem;
+    color: #333;
+    cursor: pointer;
+    padding-bottom: 5px;
+    transition: color 0.3s ease;
+}
+
+.product_text a::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #000;
+    transition: 0.3s ease;
+}
+
+.product_text a:hover {
+    color: #000;
+}
+
+.product_text a:hover::after {
+    width: 100%;
+}
+.visit:hover{
+    background-color: white;
+    color: black;
+    transition: linear 0.2s;
+}
+.product__text{
+    position: fixed;
+
+}
+
+.header {
+    position: fixed;
+    top: 0; 
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
+    padding: 20px 0;
+    background-color: white;
+    height: 100px;
+  
+  }
+ 
+
+  
+  .email-adress{
+
+    width: 1280px;
+    height: 440px;
+  }
+  
+  .email-adress h1{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .email-adress p{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btnadda{
+    width: 800px;
+    height: 50px;
+    display: flex;
+    margin-left: 500px;
+    margin-top: 100px;
+  }
+  
+  .foods-nav h1{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .time-food{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+  }
+  
+  .time-food p{
+    margin: 0;
+  }
+  
+  .card{
+    position: relative;
+  }
+
+  .sacas{
+    display: flex;
+  }
+  
+  .chast ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    margin-left: 550px;
+  }
+  
+  .topper{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .parag{
+    display: flex;
+    margin-left: 450px;
+  }
+  
+  .logoserr{
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+    gap: 40px;
+  }
+  .col:hover{
+    transition: linear 0.2s;
+    transform: scale(1.05);
+  }
+
+  .conetect-abbs{
+    background-image: radial-gradient(white,rgb(219, 219, 219));
+    height: 224px;
+    width: 920px;
+    margin-left: 320px;
+    
+  }
+  
+
+.email-adress1{
+  margin-left: 200px;
+  width: 1280px;
+  height: 440px;
+}
+
+.email-adress1 h1{
+  display: flex;
+  justify-content: center;
+}
+
+.email-adress1 p{
+  display: flex;
+  justify-content: center;
+}
