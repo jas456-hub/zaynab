@@ -146,11 +146,7 @@ hr{
 
 
 
-.don{
-    height: 100vh;
-    background: rgb(111,10,242);
-    background: linear-gradient(0deg, rgba(111,10,242,1) 0%, rgba(164,67,204,1) 45%, rgba(250,181,172,1) 100%);
-}
+
 
 .kruto:hover{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -348,3 +344,4 @@ hr{
   display: flex;
   justify-content: center;
 }
+
